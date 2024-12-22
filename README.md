@@ -4,7 +4,6 @@ This repository contains two separate notebooks employing K-Nearest Neighbors (K
 1. Mushroom Edibility Classifier: Classifies mushrooms as edible or poisonous.
 2. Diabetes Prediction Model: Classifies whether a patient has diabetes based on medical features.
 
-</hr>
 
 ### 1. Mushroom Edibility Classifier
 This model predicts whether a mushroom is edible or poisonous based on various features cap-diameter, gill-attachment, gill-color, stem-color and more. 
@@ -20,7 +19,6 @@ g. Training the model on only the most relevant subset of features
 
 <b>Conclusion</b>: If we were to train the model on a subset of the features the model accuracy drops. Hence, we include all the variables and obtain a KNN classifier for the problem with an accuracy score of 98.77%.
 
-</hr>
 
 ### 2. Diabetes Existence Classifier
 This model classifies an individual as one having diabetes or not, based on their medical information such as Cholesterol, Glucose, Age, Gender, BMI, HDL Chol, Chol/HDL ratio and more.
